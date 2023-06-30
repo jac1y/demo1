@@ -1,0 +1,123 @@
+[
+    {
+        "uid": "5159771327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-10 00:19:20",
+        "name": "托马",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "4"
+    },
+    {
+        "uid": "5159775327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-10 00:19:20",
+        "name": "风原万叶",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "5"
+    },
+    {
+        "uid": "5155771327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-10 00:19:20",
+        "name": "八重神子",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "5"
+    },
+    {
+        "uid": "5169771327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-10 00:19:20",
+        "name": "托马",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "4"
+    },
+    {
+        "uid": "5159771327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-07 22:14:41",
+        "name": "提纳里",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "5"
+    },
+    {
+        "uid": "5159871327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-07 22:14:41",
+        "name": "雷电将军",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "5"
+    },
+    {
+        "uid": "5157771327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "0",
+        "time": "2023-03-10 00:19:20",
+        "name": "钟离",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "5"
+    },
+    {
+        "uid": "5159171327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-10 00:19:20",
+        "name": "甘雨",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "5"
+    },
+    {
+        "uid": "5159071327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "1",
+        "time": "2023-03-10 00:19:20",
+        "name": "神里绫华",
+        "lang": "zh-cn",
+        "item_type": "角色",
+        "rank_type": "5"
+    },
+    {
+        "uid": "5159741327",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "0",
+        "time": "2023-03-03 10:17:16",
+        "name": "沐浴龙血的剑",
+        "lang": "zh-cn",
+        "item_type": "武器",
+        "rank_type": "3"
+    },
+    {
+        "uid": "5159771727",
+        "gacha_type": "200",
+        "item_id": "",
+        "count": "0",
+        "time": "2023-03-02 12:22:06",
+        "name": "鸦羽弓",
+        "lang": "zh-cn",
+        "item_type": "武器",
+        "rank_type": "3"
+    }
+]
